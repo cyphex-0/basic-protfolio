@@ -62,8 +62,10 @@ body {
 .two-button {
   display: flex;
   gap: 20px;
+  
 }
 .body-text button {
   padding: 10px;
   border-radius: 25px;
+  background-color: #ffde59;
 }
