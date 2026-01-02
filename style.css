@@ -10,6 +10,7 @@ body{
     background-color: #FFDE59;
     font-family: "Roboto", sans-serif;
     position: relative;
+    height: 100vh;
     
 }
 .header{
@@ -38,8 +39,14 @@ body{
     justify-content: center;
     gap: 50px;
 }
+.about button{
+    padding: 10px;
+    border-radius: 30px;
+    background-color: #FFDE59;
+    font-weight: 700;
+}
 .img img{
-    height: 200px;
+    height: 400px;
     position: absolute;
     bottom: 0px;
     right: 0px;
