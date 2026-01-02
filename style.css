@@ -1,53 +1,48 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: border-box;
-    
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 
-
-body{
-    background-color: #FFDE59;
-    font-family: "Roboto", sans-serif;
-    position: relative;
-    height: 100vh;
-    
+body {
+  background-color: #ffde59;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  height: 100vh;
 }
-.header{
-    height: 50px;
-    background-color: black;
-    color: white;
-    margin-top: 10px;
-    border-radius: 30px;
-    margin-left: 10px;
-    margin-right: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 950px;
+.header {
+  height: 50px;
+  background-color: black;
+  color: white;
+  margin-top: 10px;
+  border-radius: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 950px;
 }
-.login h1{
-    font-family: "Anton", sans-serif;
-    font-size: 22px;
-    font-weight: 900;
-    
-   
+.login h1 {
+  font-family: "Anton", sans-serif;
+  font-size: 22px;
+  font-weight: 900;
 }
-.about{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 50px;
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
 }
-.about button{
-    padding: 10px;
-    border-radius: 30px;
-    background-color: #FFDE59;
-    font-weight: 700;
+.about button {
+  padding: 10px;
+  border-radius: 30px;
+  background-color: #ffde59;
+  font-weight: 700;
 }
-.img img{
-    height: 400px;
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
+.img img {
+  height: 400px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
 }
