@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+
+body{
+    background-color: #FFDE59;
+    font-family: "Roboto", sans-serif;
+    
+}
+.header{
+    height: 50px;
+    background-color: black;
+    color: white;
+    margin-top: 10px;
+    border-radius: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 950px;
+}
+.login h1{
+    font-family: "Anton", sans-serif;
+    font-size: 22px;
+    font-weight: 900;
+    
+   
+}
+.about{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
