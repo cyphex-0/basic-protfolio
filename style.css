@@ -9,6 +9,7 @@
 body{
     background-color: #FFDE59;
     font-family: "Roboto", sans-serif;
+    position: relative;
     
 }
 .header{
@@ -36,4 +37,10 @@ body{
     align-items: center;
     justify-content: center;
     gap: 50px;
+}
+.img img{
+    height: 200px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
 }
